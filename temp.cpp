@@ -1,7 +1,6 @@
 #include<iostream>
 
-int mian()
+int main()
 {
 	return 0;
 }
-
