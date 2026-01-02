@@ -1,0 +1,1 @@
+this is new file on branch b1 not present on master, what's gonna happen if i merge now?conflict? or just adds the file ?
